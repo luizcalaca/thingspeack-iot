@@ -1,4 +1,4 @@
-# thingspeack-iot
+# Passo a passo inicial com a NodeMCU e a plataforma de IoT Thingspeak
 
 Utilização da plataforma Thingspeak para o contexto de Internet das Coisas - https://thingspeak.com/
 
