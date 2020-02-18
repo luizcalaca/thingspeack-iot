@@ -20,5 +20,9 @@ E, na parte do Private View, podemos adicionar as visualizações de acordo com 
 
 ![thingspeak](https://user-images.githubusercontent.com/2284795/74734608-a694d880-522d-11ea-8763-82a5f0b274a3.PNG)
 
+Para configurar a integração com o Twett vá em Apps > ThingsTweet
+
+![TWEET](https://user-images.githubusercontent.com/2284795/74780347-2ba7de00-527e-11ea-91da-e065be9e7e59.PNG)
+
 
 
