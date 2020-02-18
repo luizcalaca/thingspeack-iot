@@ -11,7 +11,14 @@ Os fields dentro do código se referem aos fields 1 e 2 dentro da plataforma, as
                              postStr += String(h);
                              postStr += "\r\n\r\n";
                             
-Dentro do Channel Settings podemos adicionar mais fieds, a fim de receber dados dos sensores.
+O apiKey é o token necessário para realizar a autenticação na API da plataforma e está nas configurações: API Keys do Thingspeak.
+Dentro do Channel Settings, podemos adicionar mais fields, a fim de receber dados dos sensores:
 
-O apiKey é o token necessário para realizar a autenticação na API da plataforma e está nas configurações do Thingspeak.
+![things1](https://user-images.githubusercontent.com/2284795/74734446-51f15d80-522d-11ea-9bfc-7ccf00a43026.PNG)
+
+E, na parte do Private View, podemos adicionar as visualizações de acordo com os fields que escolhemos nas configurações:
+
+![thingspeak](https://user-images.githubusercontent.com/2284795/74734608-a694d880-522d-11ea-8763-82a5f0b274a3.PNG)
+
+
 
