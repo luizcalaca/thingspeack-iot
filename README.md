@@ -20,9 +20,13 @@ E, na parte do Private View, podemos adicionar as visualizações de acordo com 
 
 ![thingspeak](https://user-images.githubusercontent.com/2284795/74734608-a694d880-522d-11ea-8763-82a5f0b274a3.PNG)
 
-Para configurar a integração com o Twett vá em Apps > ThingsTweet
+Para configurar a integração com o Twett vá em Apps > ThingsTweet. Fará uma conexão com uma conta, e, posteriormente, há o código no arquivo (..)tweet.ino
 
 ![TWEET](https://user-images.githubusercontent.com/2284795/74780347-2ba7de00-527e-11ea-91da-e065be9e7e59.PNG)
+
+Nos Apps > React, é possível criar uma reação caso haja um ou mais valores que precisam de controle: 
+
+![Captura de Tela 2020-02-20 às 11 46 08](https://user-images.githubusercontent.com/2284795/74945661-e3e89a00-53d6-11ea-91b8-4801cf66aea4.png)
 
 
 
