@@ -26,7 +26,8 @@ Para configurar a integração com o Twett vá em Apps > ThingsTweet. Fará uma 
 
 Nos Apps > React, é possível criar uma reação caso haja um ou mais valores que precisam de controle: 
 
-![Captura de Tela 2020-02-20 às 11 46 08](https://user-images.githubusercontent.com/2284795/74945661-e3e89a00-53d6-11ea-91b8-4801cf66aea4.png)
+![Captura de Tela 2020-02-20 às 11 46 08](https://user-images.githubusercontent.com/2284795/74945969-578aa700-53d7-11ea-9fd9-de7282cfc081.png)
+
 
 
 
